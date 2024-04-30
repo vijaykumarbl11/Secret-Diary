@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357782980375",
+    "project_id": "hgfdsa-add81",
+    "storage_bucket": "hgfdsa-add81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357782980375:android:77fb194e3ec78da9451952",
+        "android_client_info": {
+          "package_name": "com.app.secretdiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357782980375-ohi6ikn24st8kbl41q45mpfij5jrcbrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQWd1vbfOOMIJFQ95XK43j-dniiGwrBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357782980375-ohi6ikn24st8kbl41q45mpfij5jrcbrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
