@@ -52,7 +52,7 @@
             android:id="@+id/search11"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/blue_light"
+            android:background="@color/mainblue2"
             android:visibility="gone">
 
             <SearchView
@@ -60,7 +60,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
                 android:layout_marginEnd="75dp"
-                android:background="@color/blue_light"
+                android:background="@color/mainblue2"
                 android:iconifiedByDefault="false"
                 android:queryHint="Search here . . ."
                 android:visibility="visible" />
@@ -71,10 +71,10 @@
                 android:layout_height="50dp"
                 android:layout_gravity="center_vertical|end"
                 android:layout_marginEnd="20dp"
-                android:padding="10dp"
+                android:padding="15dp"
                 android:visibility="visible"
-                app:srcCompat="@drawable/uupp"
-                app:tint="#4CB6DF" />
+                app:srcCompat="@drawable/cancel"
+                app:tint="#8A07A0" />
 
         </FrameLayout>
 
@@ -127,7 +127,8 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        app:srcCompat="@drawable/pencilec" />
+        app:srcCompat="@drawable/pencile_f"
+        app:tint="@color/mainblue" />
 
     <ProgressBar
         android:id="@+id/progressBar"

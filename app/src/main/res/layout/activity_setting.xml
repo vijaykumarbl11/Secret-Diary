@@ -198,7 +198,6 @@
                     android:layout_marginBottom="100dp"
                     android:gravity="center"
                     android:text="Share our App link to your friends and relatives "
-                    android:textColor="@color/black"
                     android:textSize="16sp" />
 
                 <ImageView
@@ -216,7 +215,7 @@
                     android:layout_marginBottom="10dp"
                     android:gravity="center"
                     android:text="Thank's For Share"
-                    android:textColor="@color/black" />
+                    />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -241,7 +240,6 @@
                     android:layout_marginBottom="100dp"
                     android:gravity="center_horizontal"
                     android:text="Rate Us"
-                    android:textColor="@color/black"
                     android:textSize="24sp" />
 
                 <ImageView
@@ -259,7 +257,7 @@
                     android:layout_marginBottom="20dp"
                     android:gravity="center_horizontal"
                     android:text="Thank's For Rating"
-                    android:textColor="@color/black" />
+                   />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -284,7 +282,6 @@
                     android:layout_marginBottom="100dp"
                     android:gravity="center_horizontal"
                     android:text="More Apps"
-                    android:textColor="@color/black"
                     android:textSize="24sp" />
 
                 <ImageView
@@ -301,7 +298,7 @@
                     android:layout_marginBottom="20dp"
                     android:gravity="center_horizontal"
                     android:text="Thank's For Visit"
-                    android:textColor="@color/black" />
+                   />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
 
@@ -461,7 +458,6 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="10dp"
                             android:text="Mail"
-                            android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
 

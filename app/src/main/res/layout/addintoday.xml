@@ -13,12 +13,12 @@
 
         <ImageView
             android:id="@+id/oneimage"
-            android:layout_width="30dp"
+            android:layout_width="50dp"
             android:layout_height="30dp"
             android:layout_marginEnd="15dp"
             android:scaleType="centerCrop"
             android:visibility="visible"
-            app:srcCompat="@drawable/placeb" />
+            app:srcCompat="@drawable/place" />
 
         <ImageView
             android:id="@+id/edit"

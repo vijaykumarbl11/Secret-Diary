@@ -50,6 +50,7 @@ public class SplashActivity1 extends AppCompatActivity {
                     }
                 }
             };
+
             thread.start();
 
         }

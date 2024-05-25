@@ -325,7 +325,7 @@
                             android:layout_gravity="center_horizontal"
                             android:background="@color/mainblue2"
                             android:padding="25dp"
-                            app:srcCompat="@drawable/power" />
+                            app:srcCompat="@drawable/logout" />
 
                     </androidx.cardview.widget.CardView>
                 </FrameLayout>
